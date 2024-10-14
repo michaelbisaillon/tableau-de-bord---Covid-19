@@ -1,5 +1,5 @@
 
-# Application COVID-19
+# Tableau de bord - COVID-19
 
 Bienvenue dans l'application **COVID-19**, un tableau de bord interactif développé en R Shiny pour suivre l'évolution de la pandémie de COVID-19. Vous pouvez accéder à l'application en ligne à l'adresse suivante : [luxuriant.shinyapps.io/covid19](https://luxuriant.shinyapps.io/covid19/).
 
